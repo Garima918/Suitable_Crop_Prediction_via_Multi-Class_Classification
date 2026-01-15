@@ -101,7 +101,7 @@ crop-recommendation/
 ├── requirements.txt                        # Project dependencies
 └── README.md                               # Project documentation
 
-##**Setup & Run**
+## Setup & Run
 
 1. git clone https://github.com/your-username/crop-prediction.git
 cd crop-prediction
